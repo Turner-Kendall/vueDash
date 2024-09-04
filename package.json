@@ -1,0 +1,26 @@
+{
+  "name": "vuedashorg",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.8.0",
+    "axios": "^1.6.7",
+    "bootstrap-icons-vue": "^1.11.3",
+    "sweetalert2": "^11.6.13",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5",
+    "vue3-charts": "^1.1.33",
+    "vue3-youtube": "^0.1.9",
+    "web3": "^4.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^5.0.0"
+  }
+}
