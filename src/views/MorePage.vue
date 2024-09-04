@@ -1,16 +1,18 @@
 <template>
+  
   <section class="masonary-lists mt-5">
     
     <div class="list-footer container">
-      <BIconExclamationTriangleFill /> 
-      Data last reset March 24th 2024
+      <BIconExclamationTriangleFill />  Data last reset March 24th 2024
       <IpAddress />
     </div>
 
     <EthPayment />
     <MasonaryNews />
     <MasonaryLists />
+
   </section>
+
 </template>
 
 <script setup>
